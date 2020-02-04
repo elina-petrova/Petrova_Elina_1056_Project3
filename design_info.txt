@@ -1,0 +1,3 @@
+fonts: NordiquePro for navigation and buttons, MuseoSansCyrl for text 
+box sizes: product images - 500x500 px, hero Image on shop page - fullwidth, height: 700px;
+Footer - fullwidth, height: 500px; header - height:169px; header on homepage - fullwidth, height: 959px.

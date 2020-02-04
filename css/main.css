@@ -82,7 +82,6 @@ ul li a{
 }
 .button{
 
-	width: 70%;
 	margin-top: 30px;
 	align-self: center;
 }
@@ -124,6 +123,15 @@ ul li a{
 	flex-direction: row;
 	justify-content: space-evenly;
 }
+
+#ProductInfo span{
+	padding: 10px 60px;
+}
+
+#ProductInfo .button{
+	margin: 0 auto;
+}
+
 .info{
 	display: flex;
 	flex-direction: column;
